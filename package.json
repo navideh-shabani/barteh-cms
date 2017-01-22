@@ -1,6 +1,6 @@
 {
   "name": "barteh-cms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "barteh content manager. borna mehr company.",
   "main": "index.js",
   "scripts": {
