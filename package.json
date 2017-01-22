@@ -1,0 +1,28 @@
+{
+  "name": "barteh-cms",
+  "version": "1.0.0",
+  "description": "barteh content manager. borna mehr company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BornaMehr/barteh-cms.git"
+  },
+  "keywords": [
+    "cms",
+    "barteh",
+    "borna",
+    "menr",
+    "fann",
+    "bornamehr",
+    "bornamehrfann"
+  ],
+  "author": "Ahad Rafat Talebi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BornaMehr/barteh-cms/issues"
+  },
+  "homepage": "https://github.com/BornaMehr/barteh-cms#readme"
+}
