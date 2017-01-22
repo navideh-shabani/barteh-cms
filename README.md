@@ -12,4 +12,4 @@ npm install barteh-cms
 
 - - -
 
-(http://www.barteh.ir/cms)[official website]
+(http://www.barteh.ir/cms)[official-website]
